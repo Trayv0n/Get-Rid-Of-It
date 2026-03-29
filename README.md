@@ -9,7 +9,7 @@ This project was born out of the need for a **simple, safe, open-source and ligh
 
 ## Quick Start
 
-Open you Terminal App on macOS and enter enter following command: 
+Open your Terminal App on macOS and enter enter following command: 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/Trayv0n/Get-Rid-Of-It/refs/heads/main/Get-Rid-Of-It.sh)
 ```
