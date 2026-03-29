@@ -126,3 +126,6 @@ This script **permanently deletes files**. Always review the list carefully befo
 ## License
 
 MIT License. Feel free to use, modify and distribute.
+
+
+<!-- <meta name="google-site-verification" content="R0rO8AgWBDWlShoBcAmuGESfcnTsuxY0lXrn73shKsA" /> -->
