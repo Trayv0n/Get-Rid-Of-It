@@ -54,7 +54,7 @@ When you uninstall an app on macOS, it often leaves behind preference files (`.p
 
 ```
 ╔══════════════════════════════════════╗
-║        Get Rid Of It  – v0.1         ║
+║         Get Rid Of It – v0.1         ║
 ║       macOS App Leftover Cleaner     ║
 ╚══════════════════════════════════════╝
 
